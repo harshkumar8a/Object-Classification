@@ -1,5 +1,9 @@
 # Object Classification System
 
+
+<img src="Objects-classification-Image.png" alt="Description" width="800">
+
+
 A production-ready deep learning pipeline designed for scalable and reproducible object classification. This project integrates industry-standard MLOps practices, including automated data orchestration, versioning with DVC, and containerization with Docker, all served through a high-performance FastAPI interface.
 
 # 🚀 Key Features
