@@ -88,4 +88,4 @@ Bash
 
 **Email**: harshkumar811h@gmail.com
 
-**LinkedIn**: https://www.linkedin.com/in/harshkumar8a/
+**LinkedIn**: [Link](https://www.linkedin.com/in/harshkumar-8h/)
